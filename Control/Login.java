@@ -1,4 +1,4 @@
-package control;
+package Control;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

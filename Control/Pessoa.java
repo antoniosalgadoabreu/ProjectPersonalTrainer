@@ -1,4 +1,4 @@
-package control;
+package Control;
 
 public class Pessoa {
 	private String cpf, senha, nome, email, caminho, proximo,tipo;
