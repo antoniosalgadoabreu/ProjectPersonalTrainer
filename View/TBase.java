@@ -26,7 +26,7 @@ public class TBase extends JFrame {
 	
 	private JPanel contentPane;
 	TLogin tlg;
-	String caminho = "C:\\Users\\anton\\OneDrive\\step computer\\Aula modulo 1\\java\\pj_Java\\src\\txt\\";
+	String caminho = "C:\\Users\\anton\\Documents\\GitHub\\ProjectPersonalTrainer\\txt";
 	Pessoa pessoa ;
 		
 	/**
